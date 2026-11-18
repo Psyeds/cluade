@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Reels Guard</string>
+    <string name="a11y_desc">Only checks whether Instagram is open on Reels after your time limit runs out, then sends you to the home screen. It does not read or store anything.</string>
+</resources>
